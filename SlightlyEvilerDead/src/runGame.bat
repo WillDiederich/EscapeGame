@@ -1,0 +1,1 @@
+java -Dsun.java2d.d3d=false Game.SlightlyEvilerDead 192.168.0.108 6000 false 2> err.txt

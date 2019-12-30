@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gluegen-rt">
+    <CLASSES>
+      <root url="jar://C:/Assorted Path Files/CSC-165/jogamp-all-platforms/jar/gluegen-rt.jar!/" />
+      <root url="jar://C:/Assorted Path Files/CSC-165/jogamp-all-platforms/jar/jogl-all.jar!/" />
+      <root url="jar://C:/Assorted Path Files/CSC-165/jogamp-all-platforms/jar/joal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

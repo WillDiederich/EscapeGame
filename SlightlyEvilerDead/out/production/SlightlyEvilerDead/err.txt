@@ -1,0 +1,7 @@
+May 17, 2019 2:48:51 AM net.java.games.input.DefaultControllerEnvironment getControllers
+WARNING: Found unknown Windows version: Windows 10
+May 17, 2019 2:48:51 AM net.java.games.input.DefaultControllerEnvironment getControllers
+WARNING: Attempting to use default windows plug-in.
+May 17, 2019 2:48:51 AM net.java.games.input.ControllerEnvironment log
+INFO: Failed to initialize device G110 G-keys because of: java.io.IOException: Failed to acquire device (8007001e)
+

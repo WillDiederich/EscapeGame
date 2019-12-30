@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jbullet">
+    <CLASSES>
+      <root url="jar://C:/Assorted Path Files/CSC-165/javagaming/jbullet/jbullet.jar!/" />
+      <root url="jar://C:/Assorted Path Files/CSC-165/javagaming/jinput/jinput.jar!/" />
+      <root url="jar://C:/Assorted Path Files/CSC-165/javagaming/rage165/ray.jar!/" />
+      <root url="jar://C:/Assorted Path Files/CSC-165/javagaming/vecmath/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

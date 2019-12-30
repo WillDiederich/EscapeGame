@@ -1,0 +1,1 @@
+java -Dsun.java2d.d3d=false Networking.NetworkingServer 6000 UDP 2> err2.txt
